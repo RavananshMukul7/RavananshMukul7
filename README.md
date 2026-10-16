@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mukul 👋
 
-<!--
-**RavananshMukul7/RavananshMukul7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Full-Stack Developer interested in building practical, reliable software.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- SkillCompass — an AI career intelligence platform that analyzes developer skills and helps match them with suitable roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+- Languages: JavaScript, TypeScript, SQL
+- Backend: Node.js, Express.js
+- Frontend: React
+- Database: PostgreSQL
+- Tools: Git, GitHub
+
+## 📌 Featured Projects
+- **SkillCompass** — [Repository link]
+- **[Project Name]** — [What problem it solves]
+- **[Project Name]** — [What you learned or implemented]
+
+## 🌱 Currently Improving
+- Data structures and algorithms
+- REST API design, testing, and security
+- Open-source collaboration
+
+## 🤝 Open to
+Collaborating on useful software projects and contributing to open source.
+
